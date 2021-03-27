@@ -1,4 +1,4 @@
-# honestFoolCompany
+# honestFoodCompany
 
 ### To run backend serive 
   - cd factory
