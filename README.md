@@ -1,6 +1,6 @@
 # honestFoodCompany
 
-### To run backend serive 
+### To run backend service
   - cd factory
   - npm install
   - node app.js
